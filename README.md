@@ -71,4 +71,3 @@ This repository includes:
 **Akanksha Kapil**  
 M.Tech – Artificial Intelligence and Machine Learning  
 CSL7110 – Machine Learning with Big Data
-# ML_Big_Data
